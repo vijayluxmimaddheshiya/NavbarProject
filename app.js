@@ -29,6 +29,7 @@ navToggle.addEventListener('click' , function(){
  /* instead of whole if-else statement a simple toggle statement can be used which on every click simply toggles and changes links to show-links vice versa 
    links.classList.toggle('show-links');
    */
+  
 });
 
 
